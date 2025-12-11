@@ -1,0 +1,47 @@
+# ==============================================================================
+# .gitignore para Evaluacion de Impacto PTA/FI 3.0
+# ==============================================================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Logs
+*.log
+
+# Large data files (uncomment if needed)
+# *.xlsx
+# data/*.xlsx
+
+# Sensitive data (uncomment if applicable)
+# data/raw/
+# data/sensitive/

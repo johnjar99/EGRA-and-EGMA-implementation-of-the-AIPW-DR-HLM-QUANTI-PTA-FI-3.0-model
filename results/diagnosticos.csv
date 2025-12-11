@@ -1,0 +1,2 @@
+AUROC,SMD_promedio,ESS_tratamiento_pct,ESS_control_pct,N_estudiantes,N_escuelas,N_bootstrap
+0.8033207170373969,0.29203784819275297,96.55335882171359,85.48631183893188,770,22,1000
